@@ -1,4 +1,4 @@
-// Link to Problem :- https://leetcode.com/problems/bulb-switcher-iii/
+// Problem Link :- https://leetcode.com/problems/bulb-switcher-iii/
 //Problem Description :-
 // There is a room with n bulbs, numbered from 1 to n, arranged in a row from left to right. Initially, all the bulbs are turned off.
 
