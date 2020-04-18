@@ -1,3 +1,4 @@
+//Ading Comments
 class Solution {
    public int numTimesAllBlue(int[] light) {
         int rightMostLight = 0;
